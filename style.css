@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/pin-paper-sheet-cork-board-pin-paper-sheet-cork-board-close-up-empty-office-wood-note-message-announcement-159076529.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+.container {
+    
+    height: 100vh;
+}
+.container h1{
+    
+        font-family:joker;
+        text-align: center;
+        margin-top: 50px;
+    
+}
+.img{
+    height: 50px;
+    width: 50px;
+}
+
+.left{
+
+    margin-top: 100px;
+    padding-top: 5px;
+}
+.left input{
+    width: 500px;
+    margin: 8px;
+    padding: 5px;
+}
+table{
+    margin-top: 100px;
+    margin-left: 50px;
+   
+    
+}
+
+
+.right table tr td{
+    border: 2px solid black;
+    padding: 20px;
+
+}
